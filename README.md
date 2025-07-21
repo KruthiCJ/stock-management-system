@@ -8,8 +8,6 @@ A responsive inventory management web app for tracking stock levels in real-time
 - JavaScript
 - MySQL
 
-## 📸 Screenshots:
-(Add your UI screenshots here)
 
 ## ▶️ How to Run:
 1. Open `index.html` in a browser
